@@ -1,5 +1,5 @@
 # Project Title: Where Should I Move?
-Team Name:
+Team Name: SERPA
 1. Reema Singh
 2. Serena Terry
 3. Elisa White
