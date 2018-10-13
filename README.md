@@ -7,7 +7,7 @@ Team Name: SERPA
 5. Andy Watson
 ***
 ## Project Description / Outline:
-#### Our project will focus on criteria to review for house-hunting.  A person decides they want to relocate and has certain criteria they use to find their next home.  We are creating an application that allows anyone to input a desired city and return data for that location 
+#### Our project will focus on criteria to review for house-hunting.  A person decides they want to relocate and has certain criteria they use to find their next home.  We are creating an application that allows anyone to input a desired city and return data for that location
 ```
 1. Location
 2. Average Home Value
@@ -32,7 +32,7 @@ Google Maps Geocode - https://maps.googleapis.com/maps/api/geocode/
 
 Google Maps Places - https://maps.googleapis.com/maps/api/place/nearbysearch/
 
-ATTOM Data Solutions - https://www.attomdata.com/news/attom-insights/best-apis-real-estate/
+ATTOM Data Solutions - https://api.developer.attomdata.com/home
 
 SchoolDigger - https://developer.schooldigger.com/
 
